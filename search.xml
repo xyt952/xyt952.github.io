@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>无法打开压缩文件的解决办法</title>
+      <link href="/blog/W1/"/>
+      <url>/blog/W1/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>如果无法打开压缩文件，你应该安装一个压缩软件。这里推荐 360压缩 ，你也可以使用其他压缩软件。</p><p><a href="https://dl.360safe.com/360zip_setup.exe">360压缩下载</a></p><p>安装360压缩后，打开压缩文件,点击“一键解压”。<br><img src="1.png" alt=""></p><p>解压完成。</p><p><img src="2.png" alt=""></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>更新公告</title>
       <link href="/blog/NV1/"/>
       <url>/blog/NV1/</url>
